@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luís Rodrigues</h1>
 <h3 align="center">I'm Luís Rodrigues from Portugal! I love programming, and learning new things! Feel free to get in touch or take a look to some of my work.</h3>
 
-# 💫 About Me:
-🔭 I’m currently studying on Instituto Politécnico de Bragança<br><br>🌱 I’m currently learning Python, C#<br><br>👯 I’m in the last year of Software Engineering<br><br>🤝 I’m looking for help with ApiVoice (Project responsive to voice controlls)<br><br>👨‍💻 All of my projects are available at https://myportefolio1.netlify.app/<br><br>💬 Ask me about React, C, JavaScript<br><br>📫 How to reach me luisprodrigues01@gmail.com<br><br>⚡ Fun fact Love cycling, football and gym
+# About Me:
+I'm a junior Software Engineer
 
 
 ## 🌐 Socials:
